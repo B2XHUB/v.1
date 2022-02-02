@@ -1,4 +1,4 @@
-local NameofHub = 'B2XHUB(BUY SRC)'
+local NameofHub = 'B2XHUB'
 local NameofHub2 = 'B1'
 
 function loadbn()
